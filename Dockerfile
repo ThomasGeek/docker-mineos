@@ -1,6 +1,6 @@
 FROM ubuntu:xenial
-MAINTAINER Yuji ODA
-ENV MINEOS_VERSION 1.1.7
+MAINTAINER Thomas Freire Camacho
+ENV MINEOS_VERSION 1.1.8
 
 # Installing Dependencies
 RUN apt-get update; \
