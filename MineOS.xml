@@ -11,7 +11,7 @@
   </Description>
   <Registry>https://registry.hub.docker.com/u/thomasgeek/docker-mineos/</Registry>
   <GitHub>https://github.com/thomasgeek/docker-mineos</GitHub>
-  <Repository>thomasgeek/minecraft-mineos</Repository>
+  <Repository>thomasgeek/docker-mineos</Repository>
   <BindTime>true</BindTime>
   <Privileged>false</Privileged>
  <Environment>
