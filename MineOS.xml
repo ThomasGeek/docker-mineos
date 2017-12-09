@@ -9,7 +9,7 @@
     [b]/var/games/minecraft[/b] : set this path to where you wish all the Minecraft Server items to be stored. Should be you app folder.[br][br]
     [b][span style='color: #E80000;']IMPORTANT - Open Advanced View to Set your PASSWORD!!![/b][/span][br][br]
   </Description>
-  <Registry>https://registry.hub.docker.com/u/thomasgeek/minecraft-mineos/</Registry>
+  <Registry>https://registry.hub.docker.com/u/thomasgeek/docker-mineos/</Registry>
   <GitHub>https://github.com/thomasgeek/docker-mineos</GitHub>
   <Repository>thomasgeek/minecraft-mineos</Repository>
   <BindTime>true</BindTime>
