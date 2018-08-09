@@ -16,7 +16,7 @@
   <Privileged>false</Privileged>
  <Environment>
     <Variable>
-      <Name>PASSWORD</Name>
+      <Name>USER_PASSWORD</Name>
       <Value>minecraft</Value>
     </Variable>
   </Environment>
